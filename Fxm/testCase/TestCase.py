@@ -1,8 +1,7 @@
-
+import openpyxl
 import requests
 from requests import Response
-import openpyxl
-import json
+
 
 class TestCase():
     def test_getProduct(self):
